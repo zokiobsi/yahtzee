@@ -5,6 +5,8 @@
 #include <windows.h>
 #include "yahtzee.h"
 
+//Hello world! testing git and github
+
 //the printer lines, used to build the graphics.  global because several functions need these and passing by reference makes function calls very long
 char printLine1[300] = "";
 char printLine2[300] = "";
